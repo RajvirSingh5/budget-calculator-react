@@ -6,7 +6,7 @@
 
 
 
-<h2>Components<h2>
+<h2>Components</h2>
   
 * Alert
   
